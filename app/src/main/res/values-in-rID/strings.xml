@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmission3</string>
+    <string name="light">Cerah</string>
+    <string name="dark">Gelap</string>
+    <string name="name">brein</string>
+    <string name="search">cari</string>
+    <string name="favorite">favorit</string>
+    <string name="theme">tema</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="username_user">username</string>
+    <string name="name_user">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="tab_follower">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="no_user">Pengguna Tidak Ditemukan</string>
+</resources>
